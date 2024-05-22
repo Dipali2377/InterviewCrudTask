@@ -1,0 +1,6 @@
+@InterviewCrudTask_HostAddress = http://localhost:5259
+
+GET {{InterviewCrudTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
